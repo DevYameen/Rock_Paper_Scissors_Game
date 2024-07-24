@@ -28,4 +28,4 @@ How to Play:
 Demo:
 
 Try It Out:
-You can play the game 
+You can play the game https://devyameen.github.io/Rock_Paper_Scissors_Game/
